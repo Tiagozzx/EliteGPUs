@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_bg">#0D0D0D</color>
+    <color name="black_card">#1A1A1A</color>
+    <color name="gold_accent">#D4AF37</color>
+    <color name="text_white">#F2F2F2</color>
+    <color name="text_gray">#8C8C8C</color>
+    <color name="error_red">#CF6679</color>
+</resources>
